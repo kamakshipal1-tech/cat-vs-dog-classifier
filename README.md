@@ -86,6 +86,7 @@ Using identical preprocessing during both training and inference ensures consist
 
 This project was implemented using **Python**, **TensorFlow**, **Keras**, **NumPy**, **OpenCV**, **Matplotlib**, and **KaggleHub**. TensorFlow and Keras were used to design, train, and evaluate the neural network, while OpenCV handled image loading and preprocessing during inference. Matplotlib was utilized for visualizing training performance, and KaggleHub was used to access the dataset directly from Kaggle.
 
+App Link: https://cat-vs-dog-classifier-f2jdbnc2ajvcqexx6pxnny.streamlit.app/
 ---
 
 # Future Improvements
