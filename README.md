@@ -6,6 +6,8 @@ This project focuses on building an end-to-end Deep Learning solution capable of
 
 The objective was not only to achieve accurate classification but also to understand how convolutional neural networks extract features from images and progressively learn complex representations required for image recognition tasks.
 
+App Link: https://cat-vs-dog-classifier-f2jdbnc2ajvcqexx6pxnny.streamlit.app/
+
 ---
 
 # Business Problem
@@ -86,7 +88,6 @@ Using identical preprocessing during both training and inference ensures consist
 
 This project was implemented using **Python**, **TensorFlow**, **Keras**, **NumPy**, **OpenCV**, **Matplotlib**, and **KaggleHub**. TensorFlow and Keras were used to design, train, and evaluate the neural network, while OpenCV handled image loading and preprocessing during inference. Matplotlib was utilized for visualizing training performance, and KaggleHub was used to access the dataset directly from Kaggle.
 
-App Link: https://cat-vs-dog-classifier-f2jdbnc2ajvcqexx6pxnny.streamlit.app/
 ---
 
 # Future Improvements
